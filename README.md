@@ -1,6 +1,6 @@
 <div align="center">
 
-## ⚡ Surge Rules
+## ⚡ Surge
 
 **个人专属的 Surge 分流规则 · 模块 · 脚本 · 配置集合**
 
