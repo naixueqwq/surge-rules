@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Surge.png" width="120" alt="Surge Logo">
-
-# ⚡ Surge Rules
+## ⚡ Surge Rules
 
 **个人专属的 Surge 分流规则 · 模块 · 脚本 · 配置集合**
 
