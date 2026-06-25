@@ -4,7 +4,7 @@
 #!update=2024-03-09 00:35
 
 [Script]
-QX资源预览 = type=http-request, pattern=^https:\/\/quantumult\.app\/x\/open-app\/add-resource\?remote-resource=, script-path=https://github.com/chengkongyiban/shadowrocket/raw/main/scripts/qx-resource-preview.js, requires-body=true, max-size=-1, timeout=60
+QX资源预览 = type=http-request, pattern=^https:\/\/quantumult\.app\/x\/open-app\/add-resource\?remote-resource=, script-path=https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/JavaSesponse/Preview-QX-resources.js, requires-body=true, max-size=-1, timeout=60
 
 [MITM]
 hostname = %APPEND% quantumult.app
