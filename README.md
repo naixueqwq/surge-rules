@@ -1,55 +1,72 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=Surge%20Rules&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=分流%20·%20模块%20·%20脚本%20·%20配置&descColor=a0c4ff&descAlignY=62&descSize=20)
+# ⚡ Surge Rules Center
 
-<p>
-  <a href="https://github.com/Valiumlove/surge-rules/stargazers"><img src="https://img.shields.io/github/stars/Valiumlove/surge-rules?style=for-the-badge&logo=github&color=FFD700&labelColor=1a1a2e" alt="Stars"></a>
-  <a href="https://github.com/Valiumlove/surge-rules/commits"><img src="https://img.shields.io/github/last-commit/Valiumlove/surge-rules?style=for-the-badge&logo=github&color=4fc3f7&labelColor=1a1a2e" alt="Last Commit"></a>
-  <a href="https://nssurge.com"><img src="https://img.shields.io/badge/Surge-iOS%20%26%20Mac-e94560?style=for-the-badge&labelColor=1a1a2e" alt="Surge"></a>
-</p>
+<img src="https://img.shields.io/badge/Surge-Rules-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/Proxy-Config-orange?style=for-the-badge">
+<img src="https://img.shields.io/badge/Status-Active-green?style=for-the-badge">
 
 </div>
 
 ---
 
-## ⚙️ 远程配置订阅
+## 🚀 项目简介
 
-复制下方链接，在 Surge 中选择「从 URL 下载配置」粘贴即可：
+这是一个 **Surge 规则 / 模块 / 脚本 / 配置集合仓库**，用于：
 
-```
-https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/conf/PersonalConfiguration.conf
-```
-
-> ⚠️ 配置内含个人代理节点信息，使用前请根据自身情况修改 `[Proxy]` 与 `[Proxy Group]` 部分
-
----
-
-## 📂 目录
-
-| 文件夹 | 说明 |
-|:---|:---|
-| `Rules/` | 分流规则集 |
-| `Module/` | Surge 模块 `.sgmodule` |
-| `JavaSesponse/` | JS 脚本 |
-| `conf/` | 个人配置文件 |
+- 📦 分流规则（Ruleset）
+- 🔧 Surge 模块（Module）
+- 🧠 脚本增强（JavaScript）
+- ⚙️ 一键配置（Config）
 
 ---
 
-## 🚀 使用方式
+## 📁 结构说明
 
-**引用规则**
+- `Rules/` → 分流规则列表
+- `Module/` → Surge 模块
+- `JavaScript/` → 脚本
+- `conf/` → 配置文件
 
-```ini
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Rules/xxx.list,PROXY
-```
+---
 
-**安装模块** — Surge → 模块 → 安装外部模块
+## ⚙️ 使用方式
 
-```
+### 1️⃣ 直接导入配置（推荐）
+https://raw.githubusercontent.com/Valiumlove/surge-rules/main/conf/PersonalConfiguration.conf
+
+Surge → 下载配置 → 从 URL 导入
+
+---
+
+### 2️⃣ 单独规则订阅
+https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Rules/xxx.list
+
+---
+
+### 3️⃣ 模块安装
 https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Module/xxx.sgmodule
-```
 
-> 💡 若 `raw.githubusercontent.com` 访问受阻，将域名替换为 `cdn.jsdelivr.net/gh/Valiumlove/surge-rules@main`
+---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer)
+## 🧠 使用说明
+
+- 修改 `[Proxy]` 与 `[Proxy Group]` 后使用
+- 支持 iOS / macOS Surge
+- 建议按模块化方式使用
+
+---
+
+## 📡 更新机制
+
+- 自动更新规则
+- GitHub 版本控制
+- 可长期订阅使用
+
+---
+
+<div align="center">
+
+🔥 Simple. Clean. Modular.
+
+</div>
