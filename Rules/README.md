@@ -30,3 +30,4 @@
 | 📺 媒体     | Emby          | Emby.list         | [https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Rules/Emby.list)                 | Proxy                   |
 | 🌐 代理集合   | Proxy Nodes   | Proxy.list        | [https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Rules/Proxy.list)               | Proxy                   |
 | 🔄 测速     | Speed Test    | Speedtest.list    | [https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/Rules/Speedtest.list)       | DIRECT                  |
+| 🎬 社交媒体 | TikTok     | TikTok.list     | [https://raw.githubusercontent.com/xxx/TikTok.list](https://raw.githubusercontent.com/xxx/TikTok.list)         | Proxy                   |
