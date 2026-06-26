@@ -25,10 +25,10 @@
 | 🎮 游戏     | Game          | Game.list         | [https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/Rules/Game.list)                 | Proxy                   |
 | ☁️ 云服务    | Microsoft     | Microsoft.list    | [https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/Rules/Microsoft.list)       | Proxy                   |
 | ☁️ 云服务    | Google        | Google.list       | [https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/Rules/Google.list)             | Proxy                   |
-| 🍎 苹果     | Apple         | apple.list        | [https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Rules/apple.list)               | DIRECT                  |
+| 🍎 苹果     | Apple         | apple.list        | [https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/Rules/apple.list)               | DIRECT                  |
 | 🇨🇳 国内媒体 | Chinese Media | chinesemedia.list | [https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/Rules/chinesemedia.list) | DIRECT                  |
-| 📺 媒体     | Emby          | Emby.list         | [https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Rules/Emby.list)                 | Proxy                   |
-| 🌐 代理集合   | Proxy Nodes   | Proxy.list        | [https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Rules/Proxy.list)               | Proxy                   |
+| 📺 媒体     | Emby          | Emby.list         | [https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/Rules/Emby.list)                 | Proxy                   |
+| 🌐 代理集合   | Proxy Nodes   | Proxy.list        | [https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/Rules/Proxy.list)               | Proxy                   |
 | 🔄 测速     | Speed Test    | Speedtest.list    | [https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/Rules/Speedtest.list)       | DIRECT                  |
-| 🎬 社交媒体 | TikTok     | TikTok.list     | [https://raw.githubusercontent.com/xxx/TikTok.list](https://raw.githubusercontent.com/xxx/TikTok.list)         | Proxy                   |
-| 🌐 AI合集   | Midjourney | Midjourney.list | [https://raw.githubusercontent.com/xxx/Midjourney.list](https://raw.githubusercontent.com/xxx/Midjourney.list) | Proxy                   |
+| 🎬 社交媒体 | TikTok     | TikTok.list     | [https://raw.githubusercontent.com/Valiumlove/surge-rules/Hermit/Rules/tiktok.list)         | Proxy                   |
+| 🌐 AI合集   | Midjourney | Midjourney.list | [https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Rules/AI.list) | Proxy                   |
