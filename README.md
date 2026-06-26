@@ -1,137 +1,80 @@
 <div align="center">
 
-# ⚡ Surge Rules Center
+# ⚡ Surge 规则集合
 
-<img src="https://img.shields.io/badge/Surge-Rules-00d4ff?style=for-the-badge">
-<img src="https://img.shields.io/badge/Proxy-Network-ff7a00?style=for-the-badge">
-<img src="https://img.shields.io/badge/Automation-Modular-7cff00?style=for-the-badge">
-
-<br/>
-
-### 🌐 Open Proxy Rule Ecosystem
-
-**Fast · Clean · Modular · Maintainable**
+<img src="https://img.shields.io/badge/Surge-规则-blue?style=for-the-badge">
+<img src="https://img.shields.io/badge/一键-订阅-green?style=for-the-badge">
+<img src="https://img.shields.io/badge/简单-易用-orange?style=for-the-badge">
 
 <br/>
 
----
-
-### ⚡ Quick Access
-
-[📦 Import Config](https://raw.githubusercontent.com/Valiumlove/surge-rules/main/conf/PersonalConfiguration.conf)
-[📡 Ruleset](https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Rules/)
-[🧠 Modules](https://github.com/Valiumlove/surge-rules/tree/main/Module)
-[⚙️ Scripts](https://github.com/Valiumlove/surge-rules/tree/main/JavaScript)
+### 📦 简单 · 干净 · 即开即用
 
 </div>
 
 ---
 
-<br/>
+## 📌 项目说明
 
-## 🌊 System Overview
+这是一个 **Surge 规则 / 模块 / 脚本合集仓库**
 
-A **modular Surge rule ecosystem** designed for:
+用于：
 
-- High-speed routing decisions
-- Clean separation of logic layers
-- Easy subscription & update
-- Scalable proxy architecture
+- 📦 分流规则（Rules）
+- 🔧 功能模块（Module）
+- 🧠 增强脚本（JavaScript）
+- ⚙️ 一键配置（Config）
 
----
-
-<br/>
-
-## 🧩 Feature Grid
-
-<div align="center">
-
-| 📦 Rules Engine | 🔧 Module System | 🧠 Script Layer | ⚙️ Config Core |
-|----------------|------------------|----------------|----------------|
-| Smart routing  | Hot reload modules | MITM scripts | One-click setup |
-
-</div>
+👉 目标：**新手也能直接用，不需要学习成本**
 
 ---
 
-<br/>
+## 🚀 3 步使用（重点）
 
-## 🚀 Deployment Flow
-
-### 1️⃣ Full Config Import
+### ① 复制链接一键导入配置（推荐）
 https://raw.githubusercontent.com/Valiumlove/surge-rules/main/conf/PersonalConfiguration.conf
 
+👉 打开 Surge → 配置 → 从 URL 下载
+
 ---
 
-### 2️⃣ Rule Subscription
+### ② 单独使用规则
 https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Rules/xxx.list
 
 ---
 
-### 3️⃣ Module Injection
+### ③ 安装模块
 https://raw.githubusercontent.com/Valiumlove/surge-rules/main/Module/xxx.sgmodule
 
 ---
 
-<br/>
+## 📁 内容分类
 
-## 🏗 Architecture Map
-Client Request
-↓
-Rules Engine (Rules/)
-↓
-Module Layer (Module/)
-↓
-Script Processing (JavaScript/)
-↓
-Final Routing Decision
+- 📦 Rules → 分流规则（按网站分类）
+- 🔧 Module → 功能增强模块
+- 🧠 JavaScript → 自动化脚本
+- ⚙️ conf → 一键配置文件
 
 ---
 
-<br/>
+## ⚠️ 使用注意
 
-## 📊 Design Philosophy
-
-- 🧠 Logic separation > monolithic config
-- ⚡ Speed over complexity
-- 🧩 Modular over static
-- 🔄 URL-driven updates
+- 使用前请确认已设置代理
+- 部分功能需要开启 MITM
+- 建议新手直接使用“一键配置”
 
 ---
 
-<br/>
+## 🔥 推荐使用方式
 
-## 🌐 CDN Optimization
+👉 **直接使用一键配置（最省事）**
 
-Recommended acceleration:
-https://cdn.jsdelivr.net/gh/Valiumlove/surge-rules@main/
-
----
-
-<br/>
-
-## ⚠️ Notes
-
-- Modify `[Proxy]` & `[Proxy Group]` before use
-- Compatible with Surge iOS / macOS
-- Some modules require MITM enabled
+不用一个个折腾规则。
 
 ---
-
-<br/>
 
 <div align="center">
 
-Rulesets      143
-
-Modules        36
-
-Scripts        28
-
-Configs         5
-
-Updated      Daily
-
-# 🔥 Minimal. Powerful. Scalable.
+### ⚡ 能用就别折腾，先跑起来再说
 
 </div>
