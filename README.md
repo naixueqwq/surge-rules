@@ -122,6 +122,16 @@ https://cdn.jsdelivr.net/gh/Valiumlove/surge-rules@main/
 
 <div align="center">
 
+Rulesets      143
+
+Modules        36
+
+Scripts        28
+
+Configs         5
+
+Updated      Daily
+
 # 🔥 Minimal. Powerful. Scalable.
 
 </div>
